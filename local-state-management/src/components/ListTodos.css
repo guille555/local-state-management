@@ -1,0 +1,7 @@
+.listTodos {
+  width: 45%;
+  height: 40rem;
+  overflow: auto;
+  background-color: #383737;
+  border-radius: 0.25rem;
+}
